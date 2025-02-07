@@ -1,0 +1,11 @@
+# The language to output bindings in
+#
+# possible values: "C", "C++", "Cython"
+#
+# default: "C++"
+
+# Uncomment on of the following lines to choose Language (C/C++)
+# language = "C"
+# language = "C++"
+
+namespace = "bindings"
