@@ -139,5 +139,3 @@ int32_t my_add(int32_t x, int32_t y);
 }  // extern "C"
 
 ```
-
-Copyright © 2023-2025 Vexergy™ - All Rights Reserved.
